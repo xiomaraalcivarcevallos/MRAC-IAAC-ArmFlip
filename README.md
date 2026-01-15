@@ -71,3 +71,10 @@ The system operates using a **Coordinated Spiral Kinematic Path**:
 * **Mitsubishi Electric:** For the industrial-grade servo technology utilized in the rotary gantry.
 * **Open Source Robotics Foundation (OSRF):** For simulation tools used to validate spiral trajectory planning.
 * **Gemini AI:** For providing architectural logic support, technical protocol drafting, and optimization of kinematic redundancy strategies.
+
+---
+
+## Acknowledgements
+* Creation of GitHub template: Ma*ita Georganta – Robotic Sensing Expert
+
+* Creation of MRAC-IAAC GitHub Structure: Huanyu Li – Robotic Researcher
